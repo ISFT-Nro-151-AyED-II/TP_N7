@@ -1,2 +1,4 @@
-# TP_N7
-Marco práctico del TP N°7 correspondiente a la Cátedra de Algoritmos y Estructuras de Datos II de la Carrera de Analista de Sistemas del ISFT N°151.
+🐍 Algoritmos y Estructuras de Datos II - Trabajo Práctico N°2 - Tercera Parte - POO en Python
+Instituto Superior de Formación Técnica Nº 151 Carrera: Tecnicatura Superior en Análisis de Sistemas
+Materia: Algoritmos y Estructuras de Datos II
+Tema: 
