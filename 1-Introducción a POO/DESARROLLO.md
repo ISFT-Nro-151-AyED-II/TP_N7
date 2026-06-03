@@ -12,7 +12,7 @@ Se implementaron los tres tipos de métodos de Python según su función lógica
 * **Método estático (`validar_numero`):** Decorado con `@staticmethod`. La validación de un tipo de dato es un proceso puro (input -> output) que no requiere leer ni alterar el estado de la calculadora. Encapsularlo acá respeta el Principio de Responsabilidad Única.
 
 ## 💡 Enfoque técnico: Interfaz y Robustez (Punto 1.4)
-Se diseñó un controlador CLI (`main.py`) que consume la clase. Se aplicó programación defensiva estricta:
+Se diseñó un controlador CLI (`Main.py`) que consume la clase. Se aplicó programación defensiva estricta:
 1.  Un ciclo de validación continuo en `solicitar_input_numerico` para asegurar que el sistema no colapse ante ingresos de *strings* o formatos vacíos.
 2.  Manejo explícito de la excepción `ZeroDivisionError` a nivel de interfaz de usuario.
 3.  Normalización de datos (conversión de coma a punto flotante) para adaptar el sistema a la tipografía regional del usuario, mejorando la usabilidad.
