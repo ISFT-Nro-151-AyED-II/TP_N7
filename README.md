@@ -1,4 +1,4 @@
-# 🐍 Trabajo Práctico N°2 - Tercera Parte
+# 🐍 Trabajo Práctico N°2 - Unidad N°2 - Tercera Parte
 
 **Instituto Superior de Formación Técnica Nº 151**  
 **Carrera:** Tecnicatura Superior en Análisis de Sistemas   
